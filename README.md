@@ -8,11 +8,11 @@ Java, Spring, Docker, JUnit, Mockito, HTML, CSS, JavaScript, PHP, MySQL, MongoDB
 
 ### Вот, что я умею
 
-- Java. [Домашние работы по курсу Django](https://github.com/hw)
+- Кейс «Два микросервиса» (https://github.com/FoxnArt/NetologyProjects#readme)
 
-- Docker. [Примеры в репозитории](https://github.com/homeworks)
+- Java. [Курсовые и дипломная работа по программе Java-разработчик](https://github.com/homeworks](https://github.com/FoxnArt/NetologyProjects#readme)
 
-- SQL. [Итоговая работа по курсу](https://github.com/final)
+- Java. [Домашние работы по программе Java-разработчик](https://github.com/hw](https://github.com/FoxnArt/NetologyHomeworks#readme)
 
 ### Сертификаты Нетологии
 
