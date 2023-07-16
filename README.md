@@ -8,11 +8,11 @@ Java, Spring, Docker, JUnit, Mockito, HTML, CSS, JavaScript, PHP, MySQL, MongoDB
 
 ### Вот, что я умею
 
-- Кейс «Два микросервиса» (https://github.com/FoxnArt/NetologyProjects#readme)
+- Кейс «Два микросервиса» (https://github.com/FoxnArt/NetologyProjects/blob/main/README.md)
 
-- Java. [Курсовые и дипломная работа по программе Java-разработчик](https://github.com/homeworks](https://github.com/FoxnArt/NetologyProjects#readme)
+- Java. [Курсовые и дипломная работа по программе Java-разработчик](https://github.com/FoxnArt/NetologyProjects/blob/main/README.md)
 
-- Java. [Домашние работы по программе Java-разработчик](https://github.com/hw](https://github.com/FoxnArt/NetologyHomeworks#readme)
+- Java. [Домашние работы по программе Java-разработчик](https://github.com/FoxnArt/NetologyHomeworks/tree/main#readme)
 
 ### Сертификаты Нетологии
 
